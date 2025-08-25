@@ -14,4 +14,8 @@ im good
 =======
 hii
 how
+<<<<<<< HEAD
 >>>>>>> 309ec91 (hii)
+=======
+how do you do
+>>>>>>> d1e7804 (hello)
