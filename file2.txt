@@ -1,9 +1,4 @@
 hello
-<<<<<<< HEAD
 im not good
-howare you
-im fine
-=======
-howare you
-im good
->>>>>>> testing
+hii
+how
