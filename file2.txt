@@ -1,6 +1,8 @@
 hello
-<<<<<<< HEAD
 im not good
-=======
 howare you
+<<<<<<< HEAD
 >>>>>>> ba70ff9 (hru)
+=======
+im fine
+>>>>>>> a2d7ad7 (goo)
