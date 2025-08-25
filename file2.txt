@@ -1,6 +1,4 @@
 hello
-<<<<<<< HEAD
 im not good
-=======
 howare you
->>>>>>> testing
+im fine
